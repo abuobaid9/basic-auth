@@ -14,6 +14,7 @@ let sequelizeOptions =
                     require: true,
                     rejectUnauthorized: false,
                 },
+                native:true
             },
         }
         : {};
