@@ -18,6 +18,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(signInRouter);
 app.use(sigsignUpRouternup);
+app.get('/', (req, res) => {
+  res.status(200).send('Welcome To Home Page ');
+});
 app.use('*', notFoundHandler);
 app.use(errorHandler);
 
