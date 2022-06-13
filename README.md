@@ -8,9 +8,9 @@
 
 - [Heroku App](https://anas-basic-api-server.herokuapp.com/food)
 
-- [Pull Requset](https://github.com/abuobaid9/basic-auth/pulls)
+- [Pull Requset](https://github.com/abuobaid9/basic-auth/pulls?q=is%3Apr+is%3Aclosed)
 
-- [Actions](https://github.com/abuobaid9/basic-auth/actions/new)
+- [Actions](https://github.com/abuobaid9/basic-auth/actions)
 
 ## Image
 
